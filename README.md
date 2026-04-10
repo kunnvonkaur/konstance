@@ -19,6 +19,7 @@ Konstance was a dog in one low budget, random but funny Estonian early 2000s TV 
 - **Remote control through Telegram** - Simple few click setup for telegram bot to control your printer anywhere you want.
 - **Bed Mesh Manager** - Original firmware lets you to level bed only with 60c bed temp and fixed nozzle temp. Added functionality to store and apply pre-probed meshes in your PC.
 - **Gcode visualizer** - Files and Printing tab have visualizer, it could be better but takes alot for time for me, can see where your print is placed, supports and etc on bed before print.
+- **Preheat mode** - You can set timer and temperatures on preheat mode, printer will preheat exact minutes you input there, if software cancels the temp it will get them up again.
 - **Simple camera filters** - Konstance sided software fiters and for OpenCentauri users easy one click printer driver level changes.(can change exposure and more)
 - **Control mechanism** - as all the necssesary controls that original UI has, removed some not important ones for me, easy to add back.
 - **Easy to install** -  will run in your everyday Windows machine, different models to make fit for slower and older devices also. No need for a degree in science.
