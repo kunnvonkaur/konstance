@@ -1,4 +1,5 @@
-
+### Download for windows(installer) ###
+https://github.com/kunnvonkaur/konstance/releases/download/%231/KonstanceSetup_v0.1.exe
 
 [![AGPLv3 License](https://img.shields.io/badge/License-AGPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
